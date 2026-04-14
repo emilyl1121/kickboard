@@ -1,6 +1,6 @@
 ## 2025/10/15: Begin the devlog
 ---
-## 2025/10/22: Preliminary research
+## Preliminary research
 I did some research on the project and reviewed the datasheets of some parts. 
 Here are some parts I planned to use:
 
@@ -32,7 +32,7 @@ Also, I figured using an arduino for the prototype would be the most convenient 
 <img width="618" height="431" alt="image" src="https://github.com/user-attachments/assets/7e9d2bed-a509-4fe8-a65b-b9678011a07e" />
 
 ---
-## 2025/11/19: BOM and part purchasing
+## BOM and part purchasing
 I purchased the parts on TaiwanIOT studio. 
 <img width="419" height="317" alt="image" src="https://github.com/user-attachments/assets/de560418-1b41-4c8e-a33e-539123f5265d" />
 
